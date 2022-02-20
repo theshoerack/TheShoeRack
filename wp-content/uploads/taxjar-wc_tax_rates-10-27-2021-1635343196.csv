@@ -1,0 +1,5 @@
+Country Code,State Code,ZIP/Postcode,City,Rate %,Tax Name,Priority,Compound,Shipping,Tax Class
+AT,*,1030,VIENNA,20.0000, Tax,1,0,1,
+BE,*,1030,VIENNA,20.0000, Tax,1,0,1,
+BE,*,1030,JKHJ,20.0000, Tax,1,0,1,
+AT,*,1030,JKHJ,20.0000, Tax,1,0,1,
